@@ -5,7 +5,7 @@ Here is our team Capstone Product Based repository for Coding Camp 2025 Capstone
 ## Our Soldiers
 | Name                       | Bangkit-ID     | Learning Path                    | Contact Link                 |
 |----------------------------|----------------|----------------------------------|------------------------------|
-|  | 	  | Machine Learning                 | [LinkedIn](www.linkedin.com/in/rewarahmatullah) or [GitHub](https://github.com/Rewarahmatullah) |
+| Athallah Naufal Muthahhari | MC179D5Y0995	  | Machine Learning                 | [LinkedIn](https://www.linkedin.com/in/athallah-naufal-1a7b64269) or [GitHub](https://github.com/Athallah22) |
 |          |    | Machine Learning                 | [LinkedIn](https://www.linkedin.com/in/jelangramadhan/) or [GitHub](https://github.com/JelangR) |
 |      |    | Machine Learning                 | [LinkedIn](#) or [GitHub](#) |
 |  |    | Front-End dan Back-End Developer | [LinkedIn](www.linkedin.com/in/adelia-tabita-sihotang-653272267) or [GitHub](https://github.com/gazelle08) |
