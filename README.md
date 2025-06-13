@@ -10,7 +10,7 @@ Here is our team Capstone Product Based repository for Coding Camp 2025 Capstone
 | Heriswaya                  | MC223D5Y0237   | Machine Learning                 | [LinkedIn](https://www.linkedin.com/in/heriswaya/) or [GitHub](https://github.com/heriswaya) |
 | Ahsan Nafis'alimi          | FC223D5Y0481   | Front-End dan Back-End Developer | [LinkedIn](https://www.linkedin.com/in/ahsannafis/) or [GitHub](https://github.com/ahsannafisalimi) |
 | Deffry Abhirama Putra      | FC223D5Y1065   | Front-End dan Back-End Developer | [LinkedIn](https://www.linkedin.com/in/ahsannafis/) or [GitHub](https://github.com/deffryap) |
-| Yuwananta Valencia Afshandy |fc179D5y0809  | Front-End dan Back-End Developer | [LinkedIn](www.linkedin.com/in/yuwa-nanta-562341249/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BkvcXo7nwSSy0XgUVHHC3yQ%3D%3D) or [GitHub](https://github.com/yawwnann) |
+| Yuwananta Valencia Afshandy |FC179D5Y0809  | Front-End dan Back-End Developer | [LinkedIn](www.linkedin.com/in/yuwa-nanta-562341249/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BkvcXo7nwSSy0XgUVHHC3yQ%3D%3D) or [GitHub](https://github.com/yawwnann) |
 
 ## About this project
 FINTRACK: A Smart Financial Tracking Solution to Enhance Budget Control and Expense Awareness Among Indonesian Users
